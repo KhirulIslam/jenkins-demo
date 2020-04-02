@@ -1,4 +1,3 @@
-@Library("buildPipeline") _
 pipeline {
     agent any
 
