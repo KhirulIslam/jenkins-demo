@@ -1,3 +1,7 @@
+#!/env/bin/env groovy
+
+@Library("buildPipeline") _
+
 pipeline {
     agent any
 
